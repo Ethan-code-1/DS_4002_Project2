@@ -1,4 +1,4 @@
-# DS_4002_Project2 (wip)
+# DS_4002_Project2
 
 Authors: Seble Alemu (cnd3ru@virginia.edu), Janna Serrao	(jhs5gq@virginia.edu), Ethan Ogilvie (ebo4dq@virginia.edu)
 
