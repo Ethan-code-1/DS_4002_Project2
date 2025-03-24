@@ -2,7 +2,7 @@
 
 Authors: Seble Alemu (cnd3ru@virginia.edu), Janna Serrao	(jhs5gq@virginia.edu), Ethan Ogilvie (ebo4dq@virginia.edu)
 
-Project Topic: Predictive Value of PE Ratio on 3,5,10 Year S & P Returns
+Project Topic: Predictive Value of PE Ratio on 3 Year S & P Returns
 
 - Using the Shiller Data daily record of the US Stock market, we examined the potential relationship between PE ratio and stock market annual returns over intervals of multiple years.
 <h2>Section 1: Software and Packages</h2>
